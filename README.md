@@ -1,3 +1,9 @@
+# Dad Joke Generator
+
+Inspired by my personal love for horrible dad jokes and my current fixation on AntD - mostly I just wanted to build something silly and do some design work with AntD!
+
+Using the https://icanhazdadjoke.com/ Api to fetch the jokes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
