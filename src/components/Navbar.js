@@ -4,10 +4,21 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 
 function NavigationBar() {
     return (
-        <Navbar>
+        <Navbar expand="lg" className="p-2" style={{ width: "100%", backgroundColor: "beige" }}>
             <Container fluid>
-                
+                <Navbar.Brand as={Link} to="/" className="fw-bold text-uppercase">
+                   Joke Generator
+                </Navbar.Brand>
+                <Navbar.Toggle aria-controls="navbar-nav" />
+                <Navbar.Collapse id="navbar-nav">
+                    <Nav className="ms-auto">
+                        <Nav.Link as={Link} to="/" className="nav-item-custom">
+                        </Nav.Link>
+                    </Nav>
+                </Navbar.Collapse>
             </Container>
         </Navbar>
-    )
+    );
 }
+
+export default NavigationBar;
