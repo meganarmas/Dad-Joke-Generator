@@ -2,6 +2,8 @@
 
 Inspired by my personal love for horrible dad jokes and my current fixation on AntD - mostly I just wanted to build something silly and do some design work with AntD!
 
+Please note: I am slowly working on making the Navigation Bar look better after I decided to add a few more Joke Generators into the program. I'm planning on making sure it all looks nice soon!
+
 Using the https://icanhazdadjoke.com/ Api to fetch the jokes.
 
 # Getting Started with Create React App
