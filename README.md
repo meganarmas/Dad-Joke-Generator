@@ -4,9 +4,9 @@ Inspired by my personal love for horrible dad jokes and my current fixation on A
 
 Using the https://icanhazdadjoke.com/ API to fetch the jokes.
 
-Thanks for checking it out! I really do appericate it!
+Thanks for checking it out! I really do appreciate your support!
 
-Please note: I am slowly working on making the Navigation Bar look better after I decided to add a few more Joke Generators into the program. I'm planning on making sure it all looks nice soon!
+Please note: I am slowly working on making the Navigation Bar look better after I decided to add a few more Joke Generators into the program. I'm planning on making sure it all looks nice soon! This is a small, fun project that I am working on between work. 
 
 # Getting Started with Create React App
 
